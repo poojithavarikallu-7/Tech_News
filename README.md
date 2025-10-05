@@ -13,11 +13,15 @@ Get the latest **tech news** in one place with **Grishma Tech News**! 🚀 Stay 
 - **Stay Informed, Effortlessly** – Get your daily dose of tech news, wherever you are.  
 
 ---
+### 📸 Screenshot
+<img width="1919" height="912" alt="Screenshot 2025-10-05 103922" src="https://github.com/user-attachments/assets/f634f591-9a52-471b-a050-f9b34da21c81" />
+
+
+---
 ## 🌟 Features
 ✔ **Tech Insights at Your Fingertips** – Stay updated with the latest tech news.  
 ✔ **Search Functionality** – Search for news articles by entering keywords.  
 ✔ **Responsive Design** – Ensures the website looks great on all devices.  
-<img width="1919" height="912" alt="Screenshot 2025-10-05 103922" src="https://github.com/user-attachments/assets/4587f374-7968-4f62-9d9c-44c6ceedda52" />
 
 ---
 ## 💻 Technologies Used
@@ -25,6 +29,11 @@ Get the latest **tech news** in one place with **Grishma Tech News**! 🚀 Stay 
 - **CSS** – Styles the website for an engaging user experience.  
 - **JavaScript** – Enhances interactivity, including real-time updates and dynamic search capabilities.  
 - **News API** – Fetches news articles to keep content updated.  
+
+---
+### 📸 Screenshot
+<img width="1896" height="904" alt="Screenshot 2025-10-05 105629" src="https://github.com/user-attachments/assets/06a2bc84-6b2a-462a-9e0b-09f2bd06713e" />
+
 
 ---
 ## 🔍 How to Use
